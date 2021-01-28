@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "username": "timjuenemann",
+    "description": "Theo discovers the outdoor run",
+    "hashtags": ["rabbit", "bunny"],
+    "soundName": "original sound - timjuenemann",
+    "videoURL": "/videos/video_theo.mp4",
+    "likeCount": 254,
+    "commentCount": 0,
+    "shareCount": 14,
+    "liked": false
+  },
+  {
+    "id": "2",
+    "username": "timjuenemann",
+    "description": "This is evee digging",
+    "hashtags": ["bunny", "digging"],
+    "soundName": "original sound - timjuenemann",
+    "videoURL": "/videos/video_evee.mp4",
+    "likeCount": 463,
+    "commentCount": 0,
+    "shareCount": 39,
+    "liked": false
+  },
+  {
+    "id": "3",
+    "username": "timjuenemann",
+    "description": "Theo and evee eating some",
+    "hashtags": ["salad"],
+    "soundName": "original sound - timjuenemann",
+    "videoURL": "/videos/video_evee_theo.mp4",
+    "likeCount": 42,
+    "commentCount": 0,
+    "shareCount": 3,
+    "liked": false
+  }
+]
