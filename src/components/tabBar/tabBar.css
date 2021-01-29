@@ -1,0 +1,35 @@
+.tabBar{
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-items: center;
+    background: transparent;
+    color:#ffffff;
+    font-size: 15px;
+    z-index: 1;
+}
+.tabBar .item{
+    text-align: center;
+    flex: 1;
+}
+.tabBar .router-link-active{
+    font-weight: bold;
+    border-bottom: 2px solid #ffff;
+}
+.tabBar .item:nth-child(3) span{
+    display: block;
+    width: 40px;
+    height: 25px;
+    background: rgb(223, 216, 216);
+    margin: 13px auto;
+    line-height: 25px;
+    border-radius: 8px;
+    color: rgb(32, 29, 29);
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: -1px 0px 2px 1px cyan;
+}
