@@ -10,7 +10,7 @@
     background: transparent;
     color:#ffffff;
     font-size: 15px;
-    z-index: 1;
+    z-index: 99;
 }
 .tabBar .item{
     text-align: center;
